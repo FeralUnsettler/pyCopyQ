@@ -1,0 +1,2 @@
+# pyCopyQ
+Cliboard Queue App
